@@ -7,5 +7,5 @@ Machine Learning Image Translation
 Results of CycleGAN training that converts images of brown bears to images of pandas.
 Made using CycleGAN (Torch implementation) on Ubuntu virtual machine connected to a GPU on Google Cloud Platform Compute Engine.   
 
-cited from here:
+Cited from here:
 https://github.com/junyanz/CycleGAN
